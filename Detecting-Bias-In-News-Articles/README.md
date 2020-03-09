@@ -1,8 +1,8 @@
 # Detecting-Bias-In-News-Articles
 
-In light of the number of news articles available with varying quality and political
+In light of number of news articles available with varying quality and political
 polarization, it can be difficult for an average reader to always recognize the inherent
-bias in the news article. In this project, as we retrieve news articles based on
+bias in a news article. In this project, as we retrieve news articles based on
 keywords and a series of user preferences such as publications and timeframe, we
 want to draw attention to the potential influence news articles can have on the
 readers as seen in the word choices. To this purpose, we built an information
